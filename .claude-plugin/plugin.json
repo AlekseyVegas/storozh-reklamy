@@ -1,0 +1,14 @@
+{
+  "name": "storozh-reklamy",
+  "displayName": "Сторож рекламы",
+  "version": "0.1.0",
+  "description": "Ежедневный отчёт по рекламе из Google Таблицы в Телеграм: сравнивает CTR, CPC и CPL каждого направления с порогами и пишет, только когда что-то вышло за план. Проверка таблицы, расчёт порогов, готовый скрипт и установка по шагам.",
+  "author": {
+    "name": "Алексей Пономарев",
+    "url": "https://t.me/+j-8OleHrXPc2YzM6"
+  },
+  "homepage": "https://t.me/+j-8OleHrXPc2YzM6",
+  "repository": "https://github.com/AlekseyVegas/storozh-reklamy",
+  "license": "MIT",
+  "keywords": ["реклама", "аналитика", "google-sheets", "apps-script", "cpl", "ctr", "отчёт", "маркетинг"]
+}
